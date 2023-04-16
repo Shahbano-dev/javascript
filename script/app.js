@@ -107,7 +107,8 @@
 // Date 6.4.2023
 // Task 1
 
- var zakat_percent = 2.5
- var enter_zakat =+ prompt("Enter Your Zakat")
- var result = (enter_zakat*zakat_percent/100)
- alert("Your Zakat is" +" "+ result)
+//  var zakat_percent = 2.5
+//  var enter_zakat =+ prompt("Enter Your Zakat")
+//  var result = (enter_zakat*zakat_percent/100)
+//  alert("Your Zakat is" +" "+ result)
+
